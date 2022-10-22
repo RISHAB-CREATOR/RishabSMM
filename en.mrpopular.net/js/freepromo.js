@@ -1,0 +1,5 @@
+(function(){var timer=301;function countDown(){if(!document.hidden&&timer){if(--timer){var minutes=(timer%60).toString().padStart(2,0)
+if(!minutes){minutes='00';}
+$('#timerCall').text(Math.floor(timer/60)+':'+minutes);}else{$('#freePromoRun').text($('#freePromoRun').attr("altText"));$('#avalQ').val(1);document.cookie='fp_cash=0; max-age=-1; domain=.mrpopular.net; path=/';}}
+if(timer)setTimeout(countDown,1000);}
+countDown();})();$(document).on('submit','#freePromoForm',function(event){event.preventDefault();var avalQ=$('#avalQ').val();if(avalQ==1){var captcha=grecaptcha.getResponse();if(captcha!==''){if(captcha.length>10){let form=document.createElement('form');form.action=window.location.pathname;form.method='POST';form.innerHTML='';form.innerHTML+='<input name="l" value="'+$('#link').val()+'">';form.innerHTML+='<input name="g" value="'+captcha+'">';document.body.append(form);form.submit();}else alert($('#freePromoForm').attr('err'))}else alert($('#freePromoForm').attr('err'))}});$('#link').on('input',function(e){$('.captchaBlock').slideDown();});

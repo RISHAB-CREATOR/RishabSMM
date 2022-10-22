@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 60 85" overflow="visible" xml:space="preserve">
+<g id="фоны">
+	
+		<linearGradient id="yelp__x2F__digg_1_" gradientUnits="userSpaceOnUse" x1="4.1266537" y1="23.3201141" x2="52.3272133" y2="59.0511398">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<rect id="yelp__x2F__digg" fill-rule="evenodd" fill="url(#yelp__x2F__digg_1_)" width="60" height="85"/>
+</g>
+<g id="иконки">
+	<polyline id="fav_digg" fill="#1F5EDA" points="16.5895596,26.125 43.5609245,26.125 43.5609245,58.875 29.557436,49.1369896 
+		16.5895596,58.875 16.5895596,26.125 	"/>
+</g>
+</svg>

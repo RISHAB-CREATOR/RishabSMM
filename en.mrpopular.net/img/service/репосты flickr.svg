@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 60 85" overflow="visible" xml:space="preserve">
+<g id="фоны">
+	<linearGradient id="flikr_1_" gradientUnits="userSpaceOnUse" x1="4.1266537" y1="23.3201141" x2="52.3272133" y2="59.0511398">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D1D1D1"/>
+	</linearGradient>
+	<rect id="flikr" fill-rule="evenodd" fill="url(#flikr_1_)" width="60" height="85"/>
+</g>
+<g id="иконки">
+	<g id="репост">
+		<path d="M38.1875,52.8921547H16.8999996V37.5661774h4.9039707c0,0,1.2025394-1.6801414,3.6417313-3.2579422H15.2624998
+			c-0.9040365,0-1.6374998,0.7249336-1.6374998,1.6289711v18.5839195c0,0.8955078,0.7334633,1.6289711,1.6374998,1.6289711h24.5625
+			c0.9040375,0,1.6375008-0.7249336,1.6375008-1.6289711v-9.2962227L38.1875,47.9028969V52.8921547z M35.4583321,39.7665672
+			v5.4498062L46.375,37.0715179l-10.9166679-8.2216148v5.0915985c-13.202343,0-13.6458321,14.0125656-13.6458321,14.0125656
+			C25.548048,41.8560867,28.2942715,39.7665672,35.4583321,39.7665672z"/>
+	</g>
+</g>
+</svg>

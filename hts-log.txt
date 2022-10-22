@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Oct 2022 17:54:36 at https://en.mrpopular.net/get-free-instagram-followers.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://en.mrpopular.net/get-free-instagram-followers.php -O1 "C:\My Web Sites\mrpopular" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:55:27	Warning: 	Retry after error -4 (Connect Error) at link https://yandex.ru/ads/system/context.js (from https://en.mrpopular.net/get-free-instagram-followers.php)
+17:56:24	Warning: 	File not parsed, looks like binary: https://en.mrpopular.net/css/webfonts/fa-brands-400.woff2
+17:56:26	Warning: 	File not parsed, looks like binary: https://en.mrpopular.net/css/webfonts/fa-regular-400.woff2
+17:56:26	Warning: 	File not parsed, looks like binary: https://en.mrpopular.net/css/webfonts/fa-solid-900.woff2
+17:56:27	Warning: 	Retry after error -4 (Connect Error) at link https://yandex.ru/ads/system/context.js (from https://en.mrpopular.net/get-free-instagram-followers.php)
+17:59:22	Warning: 	Link https://en.mrpopular.net/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+18:02:54	Warning: 	Moved Permanently for https://en.mrpopular.net/?category=socialnetworks&type=TikTok
+18:02:54	Warning: 	File has moved from https://en.mrpopular.net/?category=socialnetworks&type=TikTok to /?category=socialnetworks&type=TT
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 57 seconds : 1630 links scanned, 1626 files written (89045197 bytes overall) [77838006 bytes received at 118474 bytes/sec], 19204996 bytes transferred using HTTP compression in 1613 files, ratio 34%, 74.0 requests per connection
+(No errors, 8 warnings, 0 messages)

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Направляющие" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 60 85" style="enable-background:new 0 0 60 85;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#C8DAEA;}
+	.st2{fill:#A9C9DD;}
+	.st3{fill:url(#Shape_3_);}
+</style>
+<g id="Page-1">
+	<g id="Social_icons" transform="translate(-422.000000, -252.000000)">
+		<g id="Telegram" transform="translate(422.000000, 252.000000)">
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="44.9217" y1="7.6817" x2="19.4862" y2="67.033">
+				<stop  offset="0" style="stop-color:#37AEE2"/>
+				<stop  offset="1" style="stop-color:#1E96C8"/>
+			</linearGradient>
+			<rect class="st0" width="60" height="85"/>
+			<path id="Shape" class="st1" d="M26.3,54.7c-1,0-0.8-0.4-1.1-1.3L22.3,44l22-13.1"/>
+			<path id="Shape_1_" class="st2" d="M26.3,54.7c0.8,0,1.1-0.3,1.5-0.8l4-3.9l-5-3"/>
+			
+				<linearGradient id="Shape_3_" gradientUnits="userSpaceOnUse" x1="-405.5327" y1="9.1078" x2="-405.398" y2="9.4733" gradientTransform="matrix(32.6232 0 0 27.3624 13262.3506 -207.8543)">
+				<stop  offset="0" style="stop-color:#EFF7FC"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path id="Shape_2_" class="st3" d="M26.8,47l12,9c1.4,0.8,2.4,0.4,2.7-1.3l4.9-23.2c0.5-2-0.8-2.9-2.1-2.3L15.5,40.3
+				c-2,0.8-2,1.9-0.4,2.4l7.4,2.3l17.2-10.8c0.8-0.5,1.6-0.2,0.9,0.3"/>
+		</g>
+	</g>
+</g>
+</svg>

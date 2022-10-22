@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+en.mrpopular.net	TRUE	/	FALSE	1999999999	PHPSESSID	l65k92o6rq0sf7b8nciqujak45
+.mrpopular.net	TRUE	/	FALSE	1999999999	hl	en
+.bing.com	TRUE	/	FALSE	1999999999	MUID	38F54E1D65076C8035CB5C5C64016D16
+bat.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+.yandex.ru	TRUE	/	FALSE	1999999999	i	w6gWRtgKYkVmjC9eHkIAMt2S1zTxUSREmYFGJMDs2tbEHxSLuvARfjiDQutXcg9u97F3BB4subOk75ublJ2pAeVD7LM=
+

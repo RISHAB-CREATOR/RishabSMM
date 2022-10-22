@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 85" enable-background="new 0 0 60 85" xml:space="preserve">
+<g id="фоны">
+	<linearGradient id="Steam_1_" gradientUnits="userSpaceOnUse" x1="26.0838413" y1="34.9477234" x2="53.7037773" y2="88.2125244">
+		<stop  offset="0" style="stop-color:#111D2E"/>
+		<stop  offset="0.212" style="stop-color:#051839"/>
+		<stop  offset="0.407" style="stop-color:#0A1B48"/>
+		<stop  offset="0.581" style="stop-color:#132E62"/>
+		<stop  offset="0.738" style="stop-color:#144B7E"/>
+		<stop  offset="0.873" style="stop-color:#136497"/>
+		<stop  offset="1" style="stop-color:#1387B8"/>
+	</linearGradient>
+	<rect id="Steam" fill="url(#Steam_1_)" width="60" height="85"/>
+</g>
+<g id="лого">
+</g>
+<g id="иконки">
+	<path id="rss" fill="#FFFFFF" d="M13.625,26.125v6.140625c14.7129383,0,26.609375,11.8984833,26.609375,26.609375H46.375
+		C46.375,40.8358917,31.6620636,26.125,13.625,26.125z M13.625,38.40625v6.140625
+		c7.9643898,0,14.328125,6.3637352,14.328125,14.328125h6.140625C34.09375,47.5987663,24.9012337,38.40625,13.625,38.40625z
+		 M13.625,50.6875v8.1875h8.1875C21.8125,54.3718758,18.1281242,50.6875,13.625,50.6875z"/>
+</g>
+</svg>

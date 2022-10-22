@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 60 85" enable-background="new 0 0 60 85" xml:space="preserve">
+<g id="фоны">
+	<radialGradient id="MRPOPULAR_1_" cx="30" cy="42.5" r="36.7848473" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.5591389" style="stop-color:#000000"/>
+		<stop  offset="0.5618649" style="stop-color:#080808"/>
+		<stop  offset="0.5678421" style="stop-color:#151515"/>
+	</radialGradient>
+	<rect id="MRPOPULAR_2_" fill="url(#MRPOPULAR_1_)" stroke="#000000" stroke-width="0.094" width="60" height="85"/>
+</g>
+<g id="иконки">
+	
+		<text transform="matrix(1.2525001 0 0 1 18.0111237 51.5087662)" fill="#ECECEC" font-family="'Noteworthy-Light'" font-size="23.079319px">!?</text>
+</g>
+</svg>
